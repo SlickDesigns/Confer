@@ -697,7 +697,7 @@ input:required {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    height: 105px;
+    height: 80px;
     padding: 0; }
     @media only screen and (max-width: 767px) {
       .classy-nav-container .classy-navbar .nav-brand {
@@ -774,7 +774,9 @@ input:required {
 /* :: 8.0 Hero Area CSS */
 .welcome-area {
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  max-height: 100vh;
+}
   .welcome-area .icon-scroll {
     width: 26px;
     height: 39px;
