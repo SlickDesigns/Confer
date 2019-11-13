@@ -1,12 +1,12 @@
 {
-  "name": "confer-conference-event-html-template",
+  "name": "confer-ga-conference-and-event-managers",
   "version": "1.0.0",
-  "description": "Confer - Conference Event HTML Template",
+  "description": "Confer - Conferences and Event Management",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "colorlib",
+  "author": "UrbaneUI",
   "license": "CC-BY-3.0",
   "devDependencies": {
     "gulp": "^3.9.1",
